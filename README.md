@@ -14,6 +14,6 @@ There are instructions at the top of the notebook if you want to download and ru
 
 ## Results
 
-![Final Graph](https://github.com/TimOgden/CoVID/blob/main/final_graph.png)
+![Final Graph](https://github.com/TimOgden/CoVID/blob/main/final_graph.jpg)
 
 This graph shows both vaccination rates and ICU capacities over time with events labeled, but the country is stratified into n different sets determined by political leaning in the 2020 election. In this case, n=6.
